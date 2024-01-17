@@ -1,0 +1,9 @@
+# Trained Models
+*.pth
+
+# Python files
+*.py
+
+# Data (Text, CSV files)
+*.csv
+*.txt
